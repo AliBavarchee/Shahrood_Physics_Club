@@ -9,4 +9,13 @@ Shahrud Physics Club
 
 
 
-[Interactive Manifold](https://www.wolframcloud.com/obj/alibavarchee/Published/3D_Vis_4D_MOB_Manifold.cdf.nb)
+![Interactive Manifold](https://www.wolframcloud.com/obj/alibavarchee/Published/3D_Vis_4D_MOB_Manifold.cdf.nb)
+
+
+
+
+<iframe src="https://www.wolframcloud.com/obj/alibavarchee/Published/3D_Vis_4D_MOB_Manifold.cdf.nb?_embed=iframe" width="600" height="800"></iframe>
+
+
+
+
