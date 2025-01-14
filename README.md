@@ -10,4 +10,4 @@ Shahrud Physics Club
 ========================
 ========================
 
-![[4D_Manifold_Mobius_like Manifold Visualization with Residuals]([https://github.com/AliBavarchee/Shahrood_Physics_Club/blob/main/4d-MM.gif](https://github.com/AliBavarchee/Shahrood_Physics_Club/blob/main/Manifold_Visualization_with_Residuals.png))
+![4D_Manifold_Mobius_like Manifold Visualization with Residuals](https://github.com/AliBavarchee/Shahrood_Physics_Club/blob/main/Manifold_Visualization_with_Residuals.png)
