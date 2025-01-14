@@ -6,3 +6,8 @@ Shahrud Physics Club
 ========================
 ========================
 [Interactive plot](https://www.wolframcloud.com/obj/alibavarchee/Published/3D_Vis_4D_MOB_Manifold.cdf.nb)
+
+========================
+========================
+
+![[4D_Manifold_Mobius_like Manifold Visualization with Residuals]([https://github.com/AliBavarchee/Shahrood_Physics_Club/blob/main/4d-MM.gif](https://github.com/AliBavarchee/Shahrood_Physics_Club/blob/main/Manifold_Visualization_with_Residuals.png))
